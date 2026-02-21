@@ -1,2 +1,2 @@
 ## 実行例
-![Example](./images/example.png)
+![Example](./images/example.jpg)
